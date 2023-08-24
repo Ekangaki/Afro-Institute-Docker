@@ -1,1 +1,1 @@
-# aAfro-Institute-Docker
+# Afro-Institute-Docker
